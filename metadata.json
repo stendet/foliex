@@ -1,0 +1,6 @@
+{
+  "name": "Velum Canvas",
+  "description": "Minimalist dark workspace & digital canvas studio featuring soft gradient notes, real Google Drive/Docs sync, and ambient soundscapes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
